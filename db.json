@@ -2,7 +2,9 @@
   "users": [
     {
       "name": "Chinh",
-      "id": "d3pOATbL8"
+      "id": "d3pOATbL8",
+      "email": "chinh1995@gmail.com",
+      "password": "123456"
     },
     {
       "name": "Hoa ",
@@ -31,6 +33,11 @@
       "name": "dung",
       "phone": "3342",
       "id": "cBUTS0dwy"
+    },
+    {
+      "name": "Dan",
+      "phone": "Duy",
+      "id": "UuJzdEw87"
     }
   ]
 }
